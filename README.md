@@ -1,6 +1,8 @@
 # Readme :)
 It is made for the purpose of assignments
 
+PLATFORMS USED: Windows 10, Google Colab, VScode
+
 # Worksheet 2 part 1
 1. Connect to a remote server and test the Morse code converter
 2. Implement the encode() and decode() functions using a Binary tree approach in morse.py and create a function to print the tree instance to the console
